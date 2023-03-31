@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6283863552188@s.whatsapp.net"],
+    "ownerName": "𝚁𝚢𝚞𝚞𝚆𝚊𝚗𝚗𝚇𝙳",
+    "instagram" : "https://instagram.com/wan_superman_",
+    "gcwa" : "No gcwa",
+    "botName": "𝙱𝚎𝚒𝙼𝚒𝚗𝚐-𝙱𝙾𝚃𝚣",
+    "footer": "𝚁𝚢𝚞𝚞𝚆𝚊𝚗𝚗𝚇𝙳",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Beiming.jpg",
+    "BotKey": "PUZnjSDIfrq9Qrc",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.opus",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 80,
+    "limitCount": 15,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
