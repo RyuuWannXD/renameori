@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "start"]
+CMD ["npm","pm2 start haruka. js && pm2 save && pm2 logs"]
